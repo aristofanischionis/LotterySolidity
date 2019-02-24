@@ -1,7 +1,7 @@
 {
   "name": "inbox",
   "version": "1.0.0",
-  "description": "My First Solidity Project",
+  "description": "My Second Solidity Project",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
